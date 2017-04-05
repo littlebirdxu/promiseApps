@@ -1,3 +1,4 @@
+//add common
 var url = 'https://hq.tigerbrokers.com/fundamental/finance_calendar/getType/2017-02-26/2017-06-10';
 var url1 = 'https://hq.tigerbrokers.com/fundamental/finance_calendar/getType/2017-03-26/2017-06-10';
 var url2 = 'https://hq.tigerbrokers.com/fundamental/finance_calendar/getType/2017-04-26/2017-06-10';
